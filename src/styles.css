@@ -1,0 +1,14 @@
+body {
+  background: #f5f5f5;
+}
+
+.small-text {
+  font-size: 12px;
+  color: #666;
+}
+
+.table-wrap {
+  background: white;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
